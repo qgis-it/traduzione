@@ -1,2 +1,2 @@
 # Traduzione
-La repository ufficiale della traduzione di QGIS in italiano.
+Il repository ufficiale della traduzione di QGIS in italiano.
